@@ -39,7 +39,7 @@
 			<!--<image src="%ASSETS_IMG%/qr-r@2x.png"></image>-->
 
             <navigator url="/pages/jiekou/jiekou" hover-class="none">
- 				<view class="color1">to jiekou</view>
+ 				<view class="color1">to jiekou121</view>
 			</navigator>
 		</view>
 	</view>
